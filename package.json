@@ -1,0 +1,21 @@
+{
+  "name": "boiler_plate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ishtiaque Ali Jim",
+  "license": "ISC",
+  "scripts": {
+    "dev": "parcel watch src/js/theme.js src/sass/theme.scss",
+    "build": "parcel watch src/js/theme.js src/sass/theme.scss"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.17.2",
+    "parcel-bundler": "^1.12.5",
+    "sass": "^1.49.7"
+  },
+  "dependencies": {
+    "components": "^0.1.0",
+    "headroom.js": "^0.12.0",
+    "window": "^4.2.7"
+  }
+}
