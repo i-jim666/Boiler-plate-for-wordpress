@@ -1,11 +1,11 @@
-Install yarn using the following command
+##Install yarn using the following command
 
-yarn install
+**yarn install**
 
-Install carbon fields using the following command
+##Install carbon fields using the following command
 
-composer require htmlburger/carbon-fields
+**composer require htmlburger/carbon-fields**
 
-Run parcel using
+##Run parcel using
 
-yarn dev
+**yarn dev**
