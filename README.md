@@ -1,3 +1,6 @@
+It's a Wordpress boiler plate built with Parcel
+
+
 ## Install yarn using the following command
 
 **yarn install**
