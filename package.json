@@ -5,7 +5,7 @@
   "author": "Ishtiaque Ali Jim",
   "license": "ISC",
   "scripts": {
-    "dev": "parcel watch src/js/theme.js src/sass/theme.scss",
+    "dev": "parcel watch src/js/theme.js src/sass/theme.scss --no-hmr",
     "build": "parcel watch src/js/theme.js src/sass/theme.scss"
   },
   "devDependencies": {
